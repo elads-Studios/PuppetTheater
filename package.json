@@ -1,0 +1,19 @@
+{
+    "name": "com.elads.puppettheater",
+    "version": "1.0.0",
+    "displayName": "Puppet Theater",
+    "description": "This package contains scripts to build 2.5D environments.",
+    "dependencies": {},
+    "keywords": [
+        "puppet",
+        "puppets",
+        "theater",
+        "theaters",
+        "unity"
+    ],
+    "author": {
+        "name": "elads GbR",
+        "email": "team@elads.de",
+        "url": "https://elads.de/"
+    }
+}
